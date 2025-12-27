@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/ETHAPE5414-ME_JDBC_XPOLL" />
+            <option value="$PROJECT_DIR$/ETHAPE5414-ME_JDBC_XPOLL/app" />
           </set>
         </option>
       </GradleProjectSettings>
